@@ -1,1 +1,1 @@
-## Curso de Electron
+## Electron course
