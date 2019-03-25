@@ -6,5 +6,4 @@ To run the project
 ======================
 
 1. First we run the command *npm install*
-2. Run the next command to start the project: 
-   - *npm run electron* 
+2. Run the next command to start the project: *npm run electron* 
