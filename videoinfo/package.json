@@ -9,6 +9,7 @@
   "author": "José Francisco Vargas Galán",
   "license": "ISC",
   "dependencies": {
-    "electron": "^4.1.1"
+    "electron": "^4.1.1",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
