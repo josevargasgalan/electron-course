@@ -4,6 +4,7 @@ const { app, BrowserWindow } = electron;
 
 let mainWindow;
 
-app.on('start', () => {
+app.on('ready', () => {
   mainWindow = new BrowserWindow({});
+  mainWindow.loadFile('main.html');
 });
